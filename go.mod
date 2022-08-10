@@ -1,4 +1,4 @@
-module github.com/eteu-technologies/near-api-go
+module github.com/incognitochain/near-api-go
 
 go 1.16
 
