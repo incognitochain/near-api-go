@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/eteu-technologies/near-api-go/pkg/types/key"
+	"github.com/incognitochain/near-api-go/pkg/types/key"
 )
 
 func main() {

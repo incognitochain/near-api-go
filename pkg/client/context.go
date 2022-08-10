@@ -3,7 +3,7 @@ package client
 import (
 	"context"
 
-	"github.com/eteu-technologies/near-api-go/pkg/types/key"
+	"github.com/incognitochain/near-api-go/pkg/types/key"
 )
 
 type rpcContext int

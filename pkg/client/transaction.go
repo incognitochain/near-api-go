@@ -3,8 +3,8 @@ package client
 import (
 	"context"
 
-	"github.com/eteu-technologies/near-api-go/pkg/types"
-	"github.com/eteu-technologies/near-api-go/pkg/types/hash"
+	"github.com/incognitochain/near-api-go/pkg/types"
+	"github.com/incognitochain/near-api-go/pkg/types/hash"
 )
 
 // https://docs.near.org/docs/api/rpc#send-transaction-async

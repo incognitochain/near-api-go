@@ -3,9 +3,9 @@ package client
 import (
 	"encoding/json"
 
-	"github.com/eteu-technologies/near-api-go/pkg/types"
-	"github.com/eteu-technologies/near-api-go/pkg/types/hash"
-	"github.com/eteu-technologies/near-api-go/pkg/types/signature"
+	"github.com/incognitochain/near-api-go/pkg/types"
+	"github.com/incognitochain/near-api-go/pkg/types/hash"
+	"github.com/incognitochain/near-api-go/pkg/types/signature"
 )
 
 type ChunkView struct {
